@@ -1,2 +1,1 @@
-const e = '/1/assets/header-MoI1THJb.jpg';
-export { e as h };
+const e="/1/assets/header-MoI1THJb.jpg";export{e as h};

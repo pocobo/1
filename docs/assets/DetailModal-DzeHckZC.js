@@ -1,10 +1,1 @@
-import { _ as o } from './DetailModal.vue_vue_type_script_setup_true_lang-ETUCMSKA.js';
-import './index-RbNU_lzt.js';
-import '../index.js';
-import './vue-BjERyvPm.js';
-import './antd-BmrhB3rb.js';
-import './useWindowSizeFn-B5LTQhvs.js';
-import './index-DXnpckpY.js';
-import './data-Dn12aQq8.js';
-import './useDescription-CSes53e9.js';
-export { o as default };
+import{_ as o}from"./DetailModal.vue_vue_type_script_setup_true_lang-ETUCMSKA.js";import"./index-RbNU_lzt.js";import"../index.js";import"./vue-BjERyvPm.js";import"./antd-BmrhB3rb.js";import"./useWindowSizeFn-B5LTQhvs.js";import"./index-DXnpckpY.js";import"./data-Dn12aQq8.js";import"./useDescription-CSes53e9.js";export{o as default};
